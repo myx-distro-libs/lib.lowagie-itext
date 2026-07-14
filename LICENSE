@@ -1,0 +1,14 @@
+The jar files bundled in this repository are distributed under the terms of the
+GNU Lesser General Public License, version 2 (LGPLv2), as published by the
+Free Software Foundation.
+
+  iText 2.1.7 — Copyright (C) Bruno Lowagie and Paulo Soares
+  bcprov-jdk16-143.jar (Bouncy Castle) — Copyright (C) The Legion of the Bouncy Castle Inc.
+  Bouncy Castle is distributed under the MIT License (see https://www.bouncycastle.org/licence.html)
+
+The full text of the GNU LGPLv2 is available at:
+  https://www.gnu.org/licenses/old-licenses/lgpl-2.0.html
+
+This wrapper repository (build metadata, project files) is provided as-is
+with no warranty. The original library authors are not affiliated with this
+packaging effort.

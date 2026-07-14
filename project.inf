@@ -1,0 +1,6 @@
+Name: lib.lowagie-itext
+Title: Library Wrapper: iText PDF library by Lowagie (v2.1.7, LGPLv2)
+Provides: \
+	ae3.pkg.lib.itext \
+	source-process:ae3-packages \
+	export-classpath:java \
