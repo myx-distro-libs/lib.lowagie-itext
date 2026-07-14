@@ -1,0 +1,6 @@
+{
+	name : 'ae3.pkg.lib.itext',
+	title : 'AE3 Library Wrapper: iText',
+	provides : 'bdbje',
+	requires : 'java'
+}
